@@ -1,0 +1,11 @@
+[[repo_config]]
+title = "Test"
+path = "/Users/vhasus/Documents/test/"
+ffreq = "5"
+cfreq = "10"
+sname = "Suhas Vishwanath"
+semail = "suhas.vishwanath@email.com"
+pkey = "/Users/vhasus/.ssh/id_rsa"
+defcommitmsg = "Updating version"
+remoteurl = "git@github.com:ashusvnath/notes.git"
+shouldrun = true
